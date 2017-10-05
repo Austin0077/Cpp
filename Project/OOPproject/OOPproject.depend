@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507185314 source:c:\users\austin kweyu\desktop\new folder (2)\oopproject\classimpl.cpp
+	"classdecl.h"
+
+1507186486 c:\users\austin kweyu\desktop\new folder (2)\oopproject\classdecl.h
+
+1507184910 source:c:\users\austin kweyu\desktop\new folder (2)\oopproject\main.cpp
+	<iostream>
+	"classdecl.h"
+
