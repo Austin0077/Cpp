@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 
-from namespace std;
+using namespace std;
 class student
 {
 private:
@@ -10,4 +10,7 @@ private:
     double average;
 public:
     void display();
+    string entername(string);
+    int enteradm(int);
+    double setaverage(double);
 };

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508274175 source:/home/austin/Desktop/C++/student/main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1508274338 /home/austin/Desktop/C++/student/student.h
+	<iostream>
+	<string>
+
