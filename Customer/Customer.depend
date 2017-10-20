@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1508393253 source:/home/austin/Desktop/C++/Customer/customer.cpp
+	<iostream>
+	<string>
+	"customer.h"
+
+1508393269 /home/austin/Desktop/C++/Customer/customer.h
+	<iostream>
+	<string>
+
+1508393410 source:/home/austin/Desktop/C++/Customer/main.cpp
+	<iostream>
+	<string>
+	"customer.h"
+

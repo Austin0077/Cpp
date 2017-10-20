@@ -11,9 +11,9 @@ private:
     string Sname;
     double Credit;
 public:
-    void setid();
-    void setFname();
-    void setSname();
-    void setCredit();
+    void setid(int);
+    void setFname(string);
+    void setSname(string);
+    void setCredit(double);
     void Display();
 };

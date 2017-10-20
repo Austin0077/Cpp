@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508412469 source:/home/austin/Desktop/C++/Grocery/grocery.cpp
+	<iostream>
+	"grocery.h"
+
+1508395522 /home/austin/Desktop/C++/Grocery/grocery.h
+	<iostream>
+
+1508410548 source:/home/austin/Desktop/C++/Grocery/main.cpp
+	<iostream>
+	"grocery.h"
+
