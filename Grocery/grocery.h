@@ -15,4 +15,5 @@ private:
     void settotal(float);
 public:
     void data_entry();
+    void display();
 };

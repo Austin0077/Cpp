@@ -2,7 +2,7 @@
 
 class game
 {
-public:
+private:
     int num;
     int x;
     int y;
@@ -10,4 +10,8 @@ public:
     int lucky;
     int sec_no;
     float total;
+public:
+    void display();
+    void setnum(int);
+    void setluckynum(int)
 };

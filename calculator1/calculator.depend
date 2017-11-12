@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509180983 source:/home/austin/Desktop/C++/calculator1/calc.cpp
+	<iostream>
+	<string>
+	"calc.h"
+
+1509180935 /home/austin/Desktop/C++/calculator1/calc.h
+	<iostream>
+	<string>
+

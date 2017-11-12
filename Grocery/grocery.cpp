@@ -58,4 +58,12 @@ void grocery_item::data_entry()
     spinach.setprice(y);
     spinach.setqty(z);
     spinach.settotal(a);
+    spinach.display();
+}
+void grocery_item::display()
+{
+    cout<<"Stock number: "<<stock_no<<endl;
+    cout<<"Stock Price: "<<price<<endl;
+    cout<<"Quantity: "<<quantity<<endl;
+    cout<<"Total : "<<total<<endl;
 }
